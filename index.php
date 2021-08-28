@@ -6,6 +6,7 @@
  * @package WordPress
  */
 //** I must be a fool sometimes */
+//** I'm still here. */
 
 /**
  * Tells WordPress to load the WordPress theme and output it.
