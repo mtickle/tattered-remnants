@@ -1,0 +1,73 @@
+11 May 2019
+
+- Added Header Layouts
+- Inside singular Video / Audio / Gallery posts featured image is now hidden
+- Images in list / standard / grid layouts now appear after they load
+- Fixed textarea line-height
+- Fixed author box padding inside posts
+- Centered footer menu on mobile
+- Added Style Sets capability for future style sets
+
+3 May 2019
+
+- Fixed coloring without gradient
+- Margin fixes inside author archive
+- When no gradient added header / footer border to separate from content
+- Dark theme for body now does not have menu theme shadow
+
+1 May 2019
+
+- Added styles for image / gallery post in grid layout
+- Fixed excerpt not showing for image / gallery post in grid layout
+
+28 April 2019
+
+- Added related posts
+- Featured images inside posts are now full width
+
+27 April 2019
+
+- Centerd user profiles on mobile
+- Fixed active menu with dropdown not having a dropdown icon
+- Fixed slideshow overflowing main content before images loaded (on slow connections)
+
+14 April 2019
+
+- Fixed widgets padding on mobile devices
+- Added Bekento Tools plugin inside theme folder - now installs locally
+- Centered pagination on mobile devices
+- Large screens now show full-width Instagram
+- Category description is now centered
+
+8 April 2019
+
+- Added top featured layout - Slideshow
+- Fixed author block size in archive on mobile devices
+- Changed font to smaller in search box on mobile devices
+- Fixed main menu submenus alignment
+- Fixed main menu overflowing to right side
+
+2 April 2019
+
+- Moved OpenGraph Meta tags to Bekento Tools
+- Fixed theme color for Mobile Google Chrome address bar
+- Added extra color settings (based on color scheme) to Gutenbrg editor
+
+1 April 2019
+
+- Moved Social Share buttons to plugin Bekento Tools
+- Moved Author Social Links to plugin Bekento Tools
+- Added option to disable category colors
+
+31 March 2019
+
+- Added ImagesLoaded function to Instagram
+- Fixed paddings in archive header on mobile devices
+- Fixed search icon in responsive menu with admin bar
+- Improved styling of chat/status/link posts on mobile devices
+
+30 March 2019
+
+- Added search icon to responsive menu
+- New layout - Grid with 3 columns when no sidebar is visible
+- Fixed issue with Instagram feed containing post from Instagram TV
