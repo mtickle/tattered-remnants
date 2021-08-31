@@ -1,0 +1,68 @@
+/*
+Theme Name: Visual Coffee
+Description: Used to style the TinyMCE editor.
+*/
+
+
+html {
+	line-height: 1.6;
+	font-size: 16px;
+	--title: #2f201d;
+	--text: #2f201d;
+	--accent: #bc945c;
+}
+
+body {
+	font-size: 1rem;
+	font-family: 'Fraunces', Georgia, serif;
+	font-variation-settings: 'wght' 300;
+	font-weight: 400;
+}
+
+a,
+a:hover,
+a:focus,
+a.more,
+a.more:hover {
+	-webkit-text-decoration-skip: objects;
+	text-decoration-skip: objects;
+	transition: 0.4s all ease-in;
+	text-decoration: none;
+	color: var(--accent);
+	cursor: pointer;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: var(--title);
+	line-height: 1.4;
+	font-variation-settings: 'wght' 700;
+	font-weight: bold;
+}
+
+strong, b {
+	color: var(--title);
+	font-variation-settings: 'wght' 700;
+	font-weight: bold;
+}
+
+blockquote {
+	border: 0;
+	padding-left: 4rem;
+	position: relative;
+}
+
+blockquote:before {
+	content: '\275d';
+	speak: none;
+	font-weight: normal;
+	position: absolute;
+	left: 0.5rem;
+	top: -0.5rem;
+	font-size: 3rem;
+	color: var(--text);
+}
+
+table, th, td	{
+	border: 1px solid hsl(0, 0%, 60%);
+	border-collapse: collapse;
+}

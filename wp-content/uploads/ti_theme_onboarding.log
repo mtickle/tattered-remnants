@@ -1,0 +1,22 @@
+[31/Aug/2021:08:35:14] (I): WordPress Instance Info:
+[31/Aug/2021:08:35:14] (I): Home URL : http://143.244.200.94
+[31/Aug/2021:08:35:14] (I): Site URL : http://143.244.200.94
+[31/Aug/2021:08:35:14] (I): WordPress Version : 5.8
+[31/Aug/2021:08:35:14] (I): Onboarding Version : 1.1.17
+[31/Aug/2021:08:35:14] (I): Multisite : No
+[31/Aug/2021:08:35:14] (I): Server Info : Apache/2.4.41 (Ubuntu)
+[31/Aug/2021:08:35:14] (I): PHP Version : 7.4.3
+[31/Aug/2021:08:35:14] (I): HTTPS : No
+[31/Aug/2021:08:35:14] (I): PHP Max Execution Time : 30
+[31/Aug/2021:08:35:14] (I): PHP Max Input Vars : 1000
+[31/Aug/2021:08:35:14] (I): Max Upload Size : 2097152
+[31/Aug/2021:08:35:14] (I): Plugins:
+[31/Aug/2021:08:35:14] (I): [PLUGIN] Bekento Tools 4 : v4.191213 (Bekento)
+[31/Aug/2021:08:35:14] (I): [PLUGIN] Contact Form 7 : v5.4.2 (Takayuki Miyoshi)
+[31/Aug/2021:08:35:14] (I): [PLUGIN] Site Kit by Google : v1.40.0 (Google)
+[31/Aug/2021:08:35:14] (I): [PLUGIN] Fonts Plugin | Google Fonts Typography : v3.0.3 (Fonts Plugin)
+[31/Aug/2021:08:35:14] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.6.9 (ThemeIsle)
+[31/Aug/2021:08:35:14] (I): [PLUGIN] Social Icons Widget &amp; Block by WPZOOM : v4.2.1 (WPZOOM)
+[31/Aug/2021:08:35:14] (I): [PLUGIN] Templates Patterns Collection : v1.1.17 (ThemeIsle)
+[31/Aug/2021:08:35:14] (I): [PLUGIN] Orbit Fox Companion : v2.10.7 (Themeisle)
+[31/Aug/2021:08:35:14] (I): [PLUGIN] WordPress Importer : v0.7 (wordpressdotorg)
