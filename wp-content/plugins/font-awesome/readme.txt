@@ -1,6 +1,6 @@
 === Font Awesome ===
 Contributors: fontawesome, mlwilkerson, robmadole, frrrances, deathnfudge
-Stable tag: 4.0.2
+Stable tag: 4.0.3
 Tags: font, awesome, fontawesome, font-awesome, icon, svg, webfont
 Requires at least: 4.7
 Tested up to: 5.8
@@ -160,6 +160,16 @@ You can get more information about all the available settings and troubleshootin
 
 
 == Changelog ==
+
+= 4.0.3 =
+* FIX: When in the Classic Editor in WordPress 5, do not load block editor
+  script dependencies that assign to the global wp.editor object.
+  This prevents problems with other plugins on the page that may depend on that
+  global.
+* FIX: When in the Classic Editor where multiple editor instances are present,
+  ensure that the Add Font Awesome media button on each is wired up to
+  load the Icon Chooser on click, not just those buttons that were on the page
+  at the time this plugin's initialization code is run.
 
 = 4.0.2 =
 * FIX: re-enable the Icon Chooser in the Classic Editor on WordPress 4.
